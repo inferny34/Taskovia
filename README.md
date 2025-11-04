@@ -68,8 +68,9 @@ php artisan serve
 ➡️ Ouvre ensuite http://localhost:8000
 ```
 
-🧑‍💻 Auteur
+### 🧑‍💻 Auteur
 
-Nicolas Roques
-📧 nicolas.roques34@hotmail.com
-💼 Développeur web & web mobile passionné par le développement full stack et la cybersécurité.
+- **Nicolas Roques (inferny34)**
+- 📧 inferny34@gmail.com
+- 📧 nicolas.roques34@hotmail.com
+- 💼 Développeur web & web mobile passionné par le développement full stack et la cybersécurité.
